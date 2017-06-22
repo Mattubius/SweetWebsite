@@ -1,0 +1,10 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\SweetDB.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\SweetDB.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\SweetDB.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\EntityFramework.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\EntityFramework.xml
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\obj\Release\SweetDB.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\SweetWebsite\SweetDB\obj\Release\SweetDB.pdb
+C:\Users\Matt\documents\visual studio 2017\Projects\SweetWebsite\SweetDB\obj\Release\SweetDB.csprojResolveAssemblyReference.cache
